@@ -9,6 +9,7 @@
 //===----------------------------------------------------------------------===//
 #include <iostream>
 #include <string>
+#include <string.h>
 #include "utils/utils.h"
 
 using namespace std;
@@ -90,7 +91,6 @@ int episode_iterator(int init_state, double Q[100][100], double R[100][100]){
         // if not, then go back to this loop
         if (next_action == DES_STATE){
             init_state = rand()%STATE_NUM;
-            cout << "huibuhuinima" << init_state << endl;
             break;
         }else{
             // if not destination state, then next action becomes initial state
