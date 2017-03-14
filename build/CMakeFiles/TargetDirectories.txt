@@ -1,3 +1,0 @@
-/Volumes/Disk2/CodeSpace/C++_Space/Q-Learning/build/CMakeFiles/rebuild_cache.dir
-/Volumes/Disk2/CodeSpace/C++_Space/Q-Learning/build/CMakeFiles/edit_cache.dir
-/Volumes/Disk2/CodeSpace/C++_Space/Q-Learning/build/CMakeFiles/Q-Learning.dir
