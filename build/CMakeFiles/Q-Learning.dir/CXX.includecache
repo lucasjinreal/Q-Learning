@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Disk2/CodeSpace/C++_Space/Q-Learning/main.cpp
+iostream
+-
+string
+-
+utils/utils.h
+/Volumes/Disk2/CodeSpace/C++_Space/Q-Learning/utils/utils.h
+
+/Volumes/Disk2/CodeSpace/C++_Space/Q-Learning/utils/utils.cpp
+iostream
+-
+
+/Volumes/Disk2/CodeSpace/C++_Space/Q-Learning/utils/utils.h
+
